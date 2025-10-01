@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Perplexity",
+  "Type": "Screen",
+  "Id": "7K86qN84Oke0jf5ELrTi0w",
+  "Reference": "T8oF9Co_VEu9Zopdqa72jQ/7K86qN84Oke0jf5ELrTi0w",
+  "ParentRef": "T8oF9Co_VEu9Zopdqa72jQ/ROsIYiOos0iajK9krqtrkQ",
+  "Created": "2025-08-09T14:19:05.0953473Z",
+  "Updated": "2025-08-09T14:19:05.0953473Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

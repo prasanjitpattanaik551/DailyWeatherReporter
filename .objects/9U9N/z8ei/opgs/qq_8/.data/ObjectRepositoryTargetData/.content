@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5YD9cvYAckqnAwUJEnTtvA" Reference="T8oF9Co_VEu9Zopdqa72jQ/qq_8DOVGQEeqhtK3chAQEA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="cd6b34e2-3eb1-4968-84eb-1ef261d1cfd6" CvType="AnyWordGroup" DesignTimeRectangle="993, 545, 143, 27" ElementType="Text" FullSelectorArgument="&lt;webctrl id='wob_dc' tag='SPAN' /&gt;" Guid="de868d90-356f-4ac1-ab11-0baa432f5e27" ScopeSelectorArgument="&lt;html app='firefox.exe' title='weather in bhubaneswar - Google Search' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cd6b34e2-3eb1-4968-84eb-1ef261d1cfd6" CvTextArea="1005, 477, 132, 30" CvTextArgument="Weather" CvType="Text" DesignTimeRectangle="647, 474, 489, 39" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='wob_loc' tag='DIV' type='' class='wob_loc q8U8x' aaname='Weather' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Weather' /&gt;" Guid="68a1605a-747e-4fa3-8c57-6a4ef4dfe232" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="65b21f818a825101ceaf5c10aec95cc8.png" xmlns="">0krWK2EJOQUWvNk-6U3fxow</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

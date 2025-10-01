@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Perplexity",
+  "Type": "App",
+  "Id": "65zBM6lGPU24qSsc6fdtjQ",
+  "Reference": "T8oF9Co_VEu9Zopdqa72jQ/65zBM6lGPU24qSsc6fdtjQ",
+  "Created": "2025-08-09T14:19:05.0156703Z",
+  "Updated": "2025-08-09T14:19:05.0156703Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

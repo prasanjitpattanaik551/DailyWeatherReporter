@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Firefox Google",
+  "Type": "App",
+  "Id": "9U9N01olt0ymgj3HB1fkHw",
+  "Reference": "T8oF9Co_VEu9Zopdqa72jQ/9U9N01olt0ymgj3HB1fkHw",
+  "Created": "2025-08-09T14:20:39.0155974Z",
+  "Updated": "2025-08-09T14:20:39.0155974Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

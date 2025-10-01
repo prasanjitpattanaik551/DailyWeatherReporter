@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Firefox New Tab",
+  "Type": "Screen",
+  "Id": "35NZcUnj50yU9c30It5-_g",
+  "Reference": "T8oF9Co_VEu9Zopdqa72jQ/35NZcUnj50yU9c30It5-_g",
+  "ParentRef": "T8oF9Co_VEu9Zopdqa72jQ/2H_SXiGe0UqjY7Y98HD-Tg",
+  "Created": "2025-08-09T14:20:05.4992447Z",
+  "Updated": "2025-08-09T14:20:05.4992447Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
